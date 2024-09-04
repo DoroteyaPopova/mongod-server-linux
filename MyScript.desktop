@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/home/doroteya/Desktop/mongos/serverstart.sh
+GenericName[en_US]=
+GenericName=
+Icon=redhat-server_settings
+MimeType=
+Name[en_US]=MyScript
+Name=MyScript
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=\s--noclose
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=
